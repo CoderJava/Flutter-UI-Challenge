@@ -5,6 +5,6 @@
 <hr />
 
 ### My article about Flutter UI Challenge
-There are some of my article about Flutter UI Challenge.
+There are some of my article about Flutter UI Challenge. <br />
 [- Music Player App](https://medium.com/nusanet/flutter-challenge-ui-music-player-app-b82d7b41c3bd)
 
